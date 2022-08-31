@@ -1,6 +1,6 @@
 # Angular Template
 
-This project is an Angular initial template with eslint, lint-staged and husky to validate style guides and unit tests.
+This project is an Angular initial template with eslint, lint-staged, git commit message linter and husky to validate style guides and unit tests.
 
 ## Development server
 
